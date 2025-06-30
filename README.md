@@ -25,7 +25,7 @@ Todo el código fue escrito íntegramente en C++ y ejecutado en entorno local co
 
 
 
-<em> <h1 align="center"> 🔧 DEPLOYMENT SENSILLO DEL JUEGO 🔧  </h1> </em>
+<em> <h1 align="center"> 🔧 DEPLOYMENT SENCILLO DEL JUEGO 🔧  </h1> </em>
 
 Para ejecutar el juego Dodge Invaders , simplemente se necesita tener instalado un compilador de C++ como g++.
 
