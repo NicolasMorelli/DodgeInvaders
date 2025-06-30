@@ -70,6 +70,9 @@ Esto generaria un ejecutable el cual ya al ingresar te generara automaticamente 
 
 <em> <h1 align="center"> DESCRIPCION DEL FUNCIONAMIENTO: </h1> </em>
 
+![image](https://github.com/user-attachments/assets/4169f6c4-3a28-4908-b90a-58e20be6b385)
+
+
 
 
 -------------------------------------
