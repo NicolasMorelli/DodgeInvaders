@@ -146,6 +146,7 @@ El juego corre continuamente hasta que se activa la condición de terminar (term
 •Se ejecutan funciones para guardar datos en archivos.
 
 •Se espera 3 segundos y termina el bucle.
+
 ![image](https://github.com/user-attachments/assets/72726efa-8472-40c7-81af-c023ca4386b3)
 
 
